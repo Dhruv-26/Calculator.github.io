@@ -26,11 +26,11 @@
     /* background: linear-gradient(320deg,#f27121,#e94057,#8a2387); */
 }
 
-/* .head {
+.head {
     color: #fff;
     font-size: 50px;
     text-transform: uppercase;
-} */
+}
 
 .container {
     display: flex;
